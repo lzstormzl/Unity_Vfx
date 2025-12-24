@@ -1,0 +1,4 @@
+repository "Game2D_outSource/Game2D_outSource@18967097219106@cloud"
+  path "/"
+    br "/main"
+    co "/main"
