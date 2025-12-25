@@ -596,8 +596,8 @@ MonoBehaviour:
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
-  - {fileID: 8926484042661614627}
   - {fileID: 8926484042661614633}
+  - {fileID: 8926484042661614627}
   - {fileID: 8926484042661614640}
   - {fileID: 8926484042661614641}
   - {fileID: 8926484042661614597}
@@ -2329,8 +2329,8 @@ MonoBehaviour:
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
-  - {fileID: 8926484042661614683}
   - {fileID: 8926484042661614684}
+  - {fileID: 8926484042661614683}
   - {fileID: 8926484042661614689}
   - {fileID: 8926484042661614690}
   - {fileID: 8926484042661614691}
