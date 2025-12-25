@@ -41,10 +41,7 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
-  m_InvalidKeywords:
-  - _DOUBLESIDED_ON
-  - _ENABLE_FOG_ON_TRANSPARENT
-  - _SURFACE_TYPE_TRANSPARENT
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 1
@@ -73,7 +70,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 3b86a138e6a20c842836d432142e1415, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTexture:
@@ -119,8 +116,10 @@ Material:
     - _EnableFogOnTransparent: 1
     - _ExcludeFromTUAndAA: 0
     - _Flowpower: 0
+    - _Glossiness: 0.5
     - _HUE: 0
     - _InvFade: 1
+    - _Metallic: 0
     - _Opacity: 20
     - _OpaqueCullMode: 2
     - _PathSet0ifyouuseinPS: 0
@@ -152,6 +151,7 @@ Material:
     - _ZWrite: 0
     m_Colors:
     - _AddColor: {r: 0.011341796, g: 0, b: 0.1981132, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _Remap: {r: -0.3, g: 1, b: 0, a: 0}
