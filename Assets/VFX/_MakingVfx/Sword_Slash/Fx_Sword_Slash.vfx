@@ -113,24 +113,6 @@ MonoBehaviour:
     - model: {fileID: 8926484042661615805}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661615737}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615744}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615747}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615759}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615762}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661615765}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661615842}
       id: 0
       isStickyNote: 0
@@ -139,9 +121,9 @@ MonoBehaviour:
   uiBounds:
     serializedVersion: 2
     x: -339
-    y: 281
-    width: 3631
-    height: 5507
+    y: 0
+    width: 3606
+    height: 5763
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
