@@ -240,7 +240,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0.548
+      m_SerializableObject: 0.36
     min: 0
     max: 1
     enumValues: []
@@ -256,7 +256,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 4.46
+      m_SerializableObject: 4.59
     min: 0.5
     max: 5
     enumValues: []
@@ -17140,7 +17140,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0.548
+      m_SerializableObject: 0.36
     m_Space: -1
   m_Property:
     name: o
@@ -17325,7 +17325,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 4.46
+      m_SerializableObject: 4.59
     m_Space: -1
   m_Property:
     name: o
