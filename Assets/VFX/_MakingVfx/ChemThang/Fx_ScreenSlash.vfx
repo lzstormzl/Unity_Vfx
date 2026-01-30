@@ -3143,7 +3143,7 @@ MonoBehaviour:
   - {fileID: 114350483966675085}
   m_ExposedName: SizeY
   m_Exposed: 1
-  m_Order: 0
+  m_Order: 1
   m_Category: 
   m_Min:
     m_Type:

@@ -50,10 +50,17 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _BuffDmg: 1
+    - _BuffDmg_1: 0
     - _BuffDmg_Speed: 5
-    - _Buff_Intensity: 2.27
+    - _BuffDmg_Speed_1: 2
+    - _Buff_Intensity: 4
+    - _Buff_Intensity_1: 1
+    - _Burn_Intensity: 1
+    - _Burn_Speed: 5
     - _Cutoff: 0
     - _Fill: 0
+    - _FireBurn: 0
     - _OutlineMipLevel: 0
     - _OutlineOpaqueAlpha: 1
     - _OutlineReferenceTexWidth: 1024
@@ -68,7 +75,9 @@ Material:
     - _Use8Neighbourhood: 1
     - _UseScreenSpaceOutlineWidth: 0
     m_Colors:
-    - _BuffColor: {r: 0.8962264, g: 0.6485456, b: 0.5453453, a: 0}
+    - _BuffColor: {r: 0.8113208, g: 0.5563541, b: 0.4477572, a: 1}
+    - _BuffColor_1: {r: 1, g: 0.81535554, b: 0.6470588, a: 0}
+    - _BurnColor: {r: 0.8490566, g: 0.68832326, b: 0.6768423, a: 0}
     - _OutlineColor: {r: 1, g: 1, b: 0, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
