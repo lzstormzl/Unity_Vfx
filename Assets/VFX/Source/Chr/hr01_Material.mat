@@ -50,7 +50,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BuffDmg: 1
+    - _BuffDmg: 0
     - _BuffDmg_1: 0
     - _BuffDmg_Speed: 5
     - _BuffDmg_Speed_1: 2
