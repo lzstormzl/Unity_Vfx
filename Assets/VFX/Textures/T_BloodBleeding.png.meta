@@ -1,0 +1,2886 @@
+fileFormatVersion: 2
+guid: 84725dd7cd7ccd34d8c782efb1d49e9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4680186670822726381
+    second: T_BloodBleeding_0
+  - first:
+      213: 3257808928434715737
+    second: T_BloodBleeding_1
+  - first:
+      213: -1029822722099718453
+    second: T_BloodBleeding_2
+  - first:
+      213: 868721502978678665
+    second: T_BloodBleeding_3
+  - first:
+      213: 5246853714341365924
+    second: T_BloodBleeding_4
+  - first:
+      213: -6172499989257039737
+    second: T_BloodBleeding_5
+  - first:
+      213: 4929336232934728435
+    second: T_BloodBleeding_6
+  - first:
+      213: -7570504309533130484
+    second: T_BloodBleeding_7
+  - first:
+      213: 2058542614171113111
+    second: T_BloodBleeding_8
+  - first:
+      213: -4760400475179943678
+    second: T_BloodBleeding_9
+  - first:
+      213: -8743538674629171064
+    second: T_BloodBleeding_10
+  - first:
+      213: 2451996595009842927
+    second: T_BloodBleeding_11
+  - first:
+      213: 7698302279868394932
+    second: T_BloodBleeding_12
+  - first:
+      213: -1930511768428659464
+    second: T_BloodBleeding_13
+  - first:
+      213: 4045904807914518103
+    second: T_BloodBleeding_14
+  - first:
+      213: -8061639840196738748
+    second: T_BloodBleeding_15
+  - first:
+      213: -7378707309841281255
+    second: T_BloodBleeding_16
+  - first:
+      213: -1898452814394365209
+    second: T_BloodBleeding_17
+  - first:
+      213: 8879454747363988072
+    second: T_BloodBleeding_18
+  - first:
+      213: -5501431275695783846
+    second: T_BloodBleeding_19
+  - first:
+      213: 1585584909404538518
+    second: T_BloodBleeding_20
+  - first:
+      213: 758336315695612144
+    second: T_BloodBleeding_21
+  - first:
+      213: -9115964679485766338
+    second: T_BloodBleeding_22
+  - first:
+      213: -5659366770575782959
+    second: T_BloodBleeding_23
+  - first:
+      213: -4708406640165116050
+    second: T_BloodBleeding_24
+  - first:
+      213: 6275929926596362256
+    second: T_BloodBleeding_25
+  - first:
+      213: 3945834977607836035
+    second: T_BloodBleeding_26
+  - first:
+      213: -8544609358868051957
+    second: T_BloodBleeding_27
+  - first:
+      213: -2810942605486239644
+    second: T_BloodBleeding_28
+  - first:
+      213: 7532833506081229969
+    second: T_BloodBleeding_29
+  - first:
+      213: 1487642869707796539
+    second: T_BloodBleeding_30
+  - first:
+      213: -7066150626268076697
+    second: T_BloodBleeding_31
+  - first:
+      213: -4074613646093861627
+    second: T_BloodBleeding_32
+  - first:
+      213: 5385755302449911529
+    second: T_BloodBleeding_33
+  - first:
+      213: -1326449571317658488
+    second: T_BloodBleeding_34
+  - first:
+      213: -293899028568122280
+    second: T_BloodBleeding_35
+  - first:
+      213: -5487264363114098569
+    second: T_BloodBleeding_36
+  - first:
+      213: -2257234043004728607
+    second: T_BloodBleeding_37
+  - first:
+      213: 402123083697969481
+    second: T_BloodBleeding_38
+  - first:
+      213: -7993523493885543200
+    second: T_BloodBleeding_39
+  - first:
+      213: -2073802755612894543
+    second: T_BloodBleeding_40
+  - first:
+      213: -4646338438114440765
+    second: T_BloodBleeding_41
+  - first:
+      213: 6488280140654768366
+    second: T_BloodBleeding_42
+  - first:
+      213: 3779886684187711501
+    second: T_BloodBleeding_43
+  - first:
+      213: -8691522947050456922
+    second: T_BloodBleeding_44
+  - first:
+      213: -4536860124064955773
+    second: T_BloodBleeding_45
+  - first:
+      213: 1386906194062160731
+    second: T_BloodBleeding_46
+  - first:
+      213: 6527445739964184229
+    second: T_BloodBleeding_47
+  - first:
+      213: -5642909843003918761
+    second: T_BloodBleeding_48
+  - first:
+      213: -3199290992913944597
+    second: T_BloodBleeding_49
+  - first:
+      213: -8336240960327323700
+    second: T_BloodBleeding_50
+  - first:
+      213: 3997237175441756199
+    second: T_BloodBleeding_51
+  - first:
+      213: 105930510396757985
+    second: T_BloodBleeding_52
+  - first:
+      213: 2644905961756868957
+    second: T_BloodBleeding_53
+  - first:
+      213: 7059715239010754453
+    second: T_BloodBleeding_54
+  - first:
+      213: -2664638270398008218
+    second: T_BloodBleeding_55
+  - first:
+      213: -9048335298428710036
+    second: T_BloodBleeding_56
+  - first:
+      213: -6200588610340919023
+    second: T_BloodBleeding_57
+  - first:
+      213: 9098896621664378373
+    second: T_BloodBleeding_58
+  - first:
+      213: 5020707715710928294
+    second: T_BloodBleeding_59
+  - first:
+      213: -4837711880778312361
+    second: T_BloodBleeding_60
+  - first:
+      213: -9122919232490960486
+    second: T_BloodBleeding_61
+  - first:
+      213: -1073191749923201154
+    second: T_BloodBleeding_62
+  - first:
+      213: -336442278396605136
+    second: T_BloodBleeding_63
+  - first:
+      213: -5118852032355286863
+    second: T_BloodBleeding_64
+  - first:
+      213: -2582180337754045939
+    second: T_BloodBleeding_65
+  - first:
+      213: -5730706568561683897
+    second: T_BloodBleeding_66
+  - first:
+      213: -1542402174258808308
+    second: T_BloodBleeding_67
+  - first:
+      213: -6175238860620484759
+    second: T_BloodBleeding_68
+  - first:
+      213: -6775875763274360427
+    second: T_BloodBleeding_69
+  - first:
+      213: -1030762616339332068
+    second: T_BloodBleeding_70
+  - first:
+      213: 704804744975104704
+    second: T_BloodBleeding_71
+  - first:
+      213: 3541207128229614495
+    second: T_BloodBleeding_72
+  - first:
+      213: -3200131562979079061
+    second: T_BloodBleeding_73
+  - first:
+      213: -5647095555085806332
+    second: T_BloodBleeding_74
+  - first:
+      213: -5398059207066621166
+    second: T_BloodBleeding_75
+  - first:
+      213: -8693063329941023073
+    second: T_BloodBleeding_76
+  - first:
+      213: 4759772947563208846
+    second: T_BloodBleeding_77
+  - first:
+      213: 7105955835183151100
+    second: T_BloodBleeding_78
+  - first:
+      213: 600411805322140690
+    second: T_BloodBleeding_79
+  - first:
+      213: 317224454520540875
+    second: T_BloodBleeding_80
+  - first:
+      213: 1231544709798802099
+    second: T_BloodBleeding_81
+  - first:
+      213: 2194140544902171846
+    second: T_BloodBleeding_82
+  - first:
+      213: 7627115360342893281
+    second: T_BloodBleeding_83
+  - first:
+      213: 9137925265151109429
+    second: T_BloodBleeding_84
+  - first:
+      213: 663504980419525883
+    second: T_BloodBleeding_85
+  - first:
+      213: 1827343379191823167
+    second: T_BloodBleeding_86
+  - first:
+      213: -137424368566518388
+    second: T_BloodBleeding_87
+  - first:
+      213: 2244740040540812710
+    second: T_BloodBleeding_88
+  - first:
+      213: 9114769345302330534
+    second: T_BloodBleeding_89
+  - first:
+      213: 5633060124235587018
+    second: T_BloodBleeding_90
+  - first:
+      213: 6870954347617475994
+    second: T_BloodBleeding_91
+  - first:
+      213: 7781013190288516908
+    second: T_BloodBleeding_92
+  - first:
+      213: 1633846581771304659
+    second: T_BloodBleeding_93
+  - first:
+      213: 1775968687243423665
+    second: T_BloodBleeding_94
+  - first:
+      213: 1505650201786357715
+    second: T_BloodBleeding_95
+  - first:
+      213: 6932411016527419918
+    second: T_BloodBleeding_96
+  - first:
+      213: -8276697755522616436
+    second: T_BloodBleeding_97
+  - first:
+      213: 8869041244150938886
+    second: T_BloodBleeding_98
+  - first:
+      213: 8067876055582030985
+    second: T_BloodBleeding_99
+  - first:
+      213: -5463727244293142525
+    second: T_BloodBleeding_100
+  - first:
+      213: 3883304340352550735
+    second: T_BloodBleeding_101
+  - first:
+      213: -1757191964467281218
+    second: T_BloodBleeding_102
+  - first:
+      213: 8093930034787735187
+    second: T_BloodBleeding_103
+  - first:
+      213: -2907573690400804172
+    second: T_BloodBleeding_104
+  - first:
+      213: 2805392517184776813
+    second: T_BloodBleeding_105
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T_BloodBleeding_0
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 962
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315e7130503ac0fb0800000000000000
+      internalID: -4680186670822726381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 981
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c7275b5ff063d20800000000000000
+      internalID: 3257808928434715737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 960
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6de93c0b555b1f0800000000000000
+      internalID: -1029822722099718453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 940
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f99c1ba915e0c00800000000000000
+      internalID: 868721502978678665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 320
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a881c777a190d840800000000000000
+      internalID: 5246853714341365924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 955
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7805b3c86ffd65aa0800000000000000
+      internalID: -6172499989257039737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_6
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 959
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f26986ef25886440800000000000000
+      internalID: 4929336232934728435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 960
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01c6b3d07a20f690800000000000000
+      internalID: -7570504309533130484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 950
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7965ca8d999619c10800000000000000
+      internalID: 2058542614171113111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_9
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 953
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2097c405df8afedb0800000000000000
+      internalID: -4760400475179943678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_10
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 945
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888a6d296e5b8a680800000000000000
+      internalID: -8743538674629171064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 925
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee670479ed370220800000000000000
+      internalID: 2451996595009842927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 939
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bda22dd22dd5da60800000000000000
+      internalID: 7698302279868394932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 942
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc391066c17535e0800000000000000
+      internalID: -1930511768428659464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 936
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7563ac69cf0f52830800000000000000
+      internalID: 4045904807914518103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_15
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 941
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441cfe9174d4f1090800000000000000
+      internalID: -8061639840196738748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 941
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f0557bbc0999990800000000000000
+      internalID: -7378707309841281255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_17
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 941
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaee27493757a5e0800000000000000
+      internalID: -1898452814394365209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_18
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 933
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86259cf1c092a3b70800000000000000
+      internalID: 8879454747363988072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_19
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 917
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50cdef076df6a3b0800000000000000
+      internalID: -5501431275695783846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_20
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 912
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69607460311210610800000000000000
+      internalID: 1585584909404538518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 924
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0c05d7cd6268a00800000000000000
+      internalID: 758336315695612144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 867
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e354e362c669d7180800000000000000
+      internalID: -9115964679485766338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 861
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db4e2228e3e571b0800000000000000
+      internalID: -5659366770575782959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_24
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 874
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e672ed26b1168aeb0800000000000000
+      internalID: -4708406640165116050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_25
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 902
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01005065405981750800000000000000
+      internalID: 6275929926596362256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 853
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38160a6910c62c630800000000000000
+      internalID: 3945834977607836035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_27
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 909
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0801343f037b6980800000000000000
+      internalID: -8544609358868051957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_28
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 895
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4605bf3e7968df8d0800000000000000
+      internalID: -2810942605486239644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_29
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 875
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cc122c9200a8860800000000000000
+      internalID: 7532833506081229969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_30
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 886
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b307391ee4b25a410800000000000000
+      internalID: 1487642869707796539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_31
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 870
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76523e7817dffed90800000000000000
+      internalID: -7066150626268076697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_32
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 906
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dbd932a701477c0800000000000000
+      internalID: -4074613646093861627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_33
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 883
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e614b1a9eb0eba40800000000000000
+      internalID: 5385755302449911529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_34
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 882
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c44298421879de0800000000000000
+      internalID: -1326449571317658488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_35
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 869
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c5d52046cdbebf0800000000000000
+      internalID: -293899028568122280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_36
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 911
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7709cef622259d3b0800000000000000
+      internalID: -5487264363114098569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_37
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 905
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eac8c3e891bca0e0800000000000000
+      internalID: -2257234043004728607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 862
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9495dc760d0a49500800000000000000
+      internalID: 402123083697969481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_39
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 711
+        width: 45
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec763bdbbc411190800000000000000
+      internalID: -7993523493885543200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_40
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 851
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba9779916f5833e0800000000000000
+      internalID: -2073802755612894543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 848
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c902f1dec3e48fb0800000000000000
+      internalID: -4646338438114440765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_42
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 853
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0f2fa59600b0a50800000000000000
+      internalID: 6488280140654768366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_43
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 836
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08dc3e99ead47430800000000000000
+      internalID: 3779886684187711501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_44
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 810
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8b6e7ede1816780800000000000000
+      internalID: -8691522947050456922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_45
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 835
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382497521c5d901c0800000000000000
+      internalID: -4536860124064955773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_46
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 819
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b533dd9d5d74f3310800000000000000
+      internalID: 1386906194062160731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_47
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 826
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6b33d0155269a50800000000000000
+      internalID: 6527445739964184229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_48
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 789
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756323c256b50b1b0800000000000000
+      internalID: -5642909843003918761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_49
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 815
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe142eac5d993d0800000000000000
+      internalID: -3199290992913944597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_50
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 801
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfe0ad8309bf4c80800000000000000
+      internalID: -8336240960327323700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_51
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 797
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7201135680a097730800000000000000
+      internalID: 3997237175441756199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_52
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 796
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7131bec37587100800000000000000
+      internalID: 105930510396757985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 749
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51c4da75f794b420800000000000000
+      internalID: 2644905961756868957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_54
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 782
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fd5ac1b9529f160800000000000000
+      internalID: 7059715239010754453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_55
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 786
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664f3066c9d450bd0800000000000000
+      internalID: -2664638270398008218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_56
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 775
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6357887cfadd6280800000000000000
+      internalID: -9048335298428710036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_57
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 764
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119eb42d28513f9a0800000000000000
+      internalID: -6200588610340919023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_58
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 767
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e9e46f446c54e70800000000000000
+      internalID: 9098896621664378373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_59
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 740
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5430c01132da540800000000000000
+      internalID: 5020707715710928294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_60
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 751
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755958cfcaefcdcb0800000000000000
+      internalID: -4837711880778312361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_61
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 748
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a990cc81b41e46180800000000000000
+      internalID: -9122919232490960486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_62
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 744
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f92f91ac14b11f0800000000000000
+      internalID: -1073191749923201154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_63
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 754
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d4fb4c787b45bf0800000000000000
+      internalID: -336442278396605136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_64
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 733
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b04da9823f26f8b0800000000000000
+      internalID: -5118852032355286863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_65
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 743
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d020c2ee9a04a2cd0800000000000000
+      internalID: -2582180337754045939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_66
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 723
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74212ec0db07870b0800000000000000
+      internalID: -5730706568561683897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_67
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 715
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a738ef469489ae0800000000000000
+      internalID: -1542402174258808308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_68
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 726
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f278d59f42d4aa0800000000000000
+      internalID: -6175238860620484759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_69
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 729
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5995ad7b4e047f1a0800000000000000
+      internalID: -6775875763274360427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_70
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 726
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1487559cdef1b1f0800000000000000
+      internalID: -1030762616339332068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_71
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 707
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca304c6e28f7c900800000000000000
+      internalID: 704804744975104704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_72
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 703
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93153afe15e42130800000000000000
+      internalID: 3541207128229614495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_73
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 690
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ccd1a6c49d693d0800000000000000
+      internalID: -3200131562979079061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_74
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 691
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4055c62238c71a1b0800000000000000
+      internalID: -5647095555085806332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_75
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 686
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b644650cd3615b0800000000000000
+      internalID: -5398059207066621166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_76
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 693
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9614e095f80c5780800000000000000
+      internalID: -8693063329941023073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_77
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 685
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80e407074c1e0240800000000000000
+      internalID: 4759772947563208846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_78
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 666
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7b4b1ee2d6d9260800000000000000
+      internalID: 7105955835183151100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_79
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 675
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c5d271b57155800800000000000000
+      internalID: 600411805322140690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_80
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 665
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce83cde5f1076400800000000000000
+      internalID: 317224454520540875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_81
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 649
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2b1987363571110800000000000000
+      internalID: 1231544709798802099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_82
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 649
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc0d265337237e10800000000000000
+      internalID: 2194140544902171846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_83
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 654
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2e9229205f8d960800000000000000
+      internalID: 7627115360342893281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_84
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 647
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53926652d9e60de70800000000000000
+      internalID: 9137925265151109429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_85
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 635
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcbb98a34e353900800000000000000
+      internalID: 663504980419525883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_86
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 632
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bf3672f170c5910800000000000000
+      internalID: 1827343379191823167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_87
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 636
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d3c10d345c71ef0800000000000000
+      internalID: -137424368566518388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_88
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 622
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5f7897c2be62f10800000000000000
+      internalID: 2244740040540812710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_89
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 616
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac7d5c6d6a2e7e70800000000000000
+      internalID: 9114769345302330534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_90
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 624
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdda777656ac2e40800000000000000
+      internalID: 5633060124235587018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_91
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 622
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d5aa543988a5f50800000000000000
+      internalID: 6870954347617475994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_92
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 622
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27a6cf5546bbfb60800000000000000
+      internalID: 7781013190288516908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_93
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 499
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3def6f34fc69ca610800000000000000
+      internalID: 1633846581771304659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_94
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 615
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf6c5f8c1285a810800000000000000
+      internalID: 1775968687243423665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_95
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 592
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7987991e425e410800000000000000
+      internalID: 1505650201786357715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_96
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 573
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a1f1d071fd43060800000000000000
+      internalID: 6932411016527419918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_97
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 514
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c833dc04e33432d80800000000000000
+      internalID: -8276697755522616436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_98
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 495
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60db7e7750a251b70800000000000000
+      internalID: 8869041244150938886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_99
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 438
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cb8d0f68ad6ff60800000000000000
+      internalID: 8067876055582030985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_100
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3088846f401fc24b0800000000000000
+      internalID: -5463727244293142525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_101
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 3
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47427119b444e530800000000000000
+      internalID: 3883304340352550735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_102
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 16
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2c1c3e7333d97e0800000000000000
+      internalID: -1757191964467281218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_103
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3965360bb7a635070800000000000000
+      internalID: 8093930034787735187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_104
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b27361322936a7d0800000000000000
+      internalID: -2907573690400804172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_BloodBleeding_105
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a665a71a1cee620800000000000000
+      internalID: 2805392517184776813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      T_BloodBleeding_0: -4680186670822726381
+      T_BloodBleeding_1: 3257808928434715737
+      T_BloodBleeding_10: -8743538674629171064
+      T_BloodBleeding_100: -5463727244293142525
+      T_BloodBleeding_101: 3883304340352550735
+      T_BloodBleeding_102: -1757191964467281218
+      T_BloodBleeding_103: 8093930034787735187
+      T_BloodBleeding_104: -2907573690400804172
+      T_BloodBleeding_105: 2805392517184776813
+      T_BloodBleeding_11: 2451996595009842927
+      T_BloodBleeding_12: 7698302279868394932
+      T_BloodBleeding_13: -1930511768428659464
+      T_BloodBleeding_14: 4045904807914518103
+      T_BloodBleeding_15: -8061639840196738748
+      T_BloodBleeding_16: -7378707309841281255
+      T_BloodBleeding_17: -1898452814394365209
+      T_BloodBleeding_18: 8879454747363988072
+      T_BloodBleeding_19: -5501431275695783846
+      T_BloodBleeding_2: -1029822722099718453
+      T_BloodBleeding_20: 1585584909404538518
+      T_BloodBleeding_21: 758336315695612144
+      T_BloodBleeding_22: -9115964679485766338
+      T_BloodBleeding_23: -5659366770575782959
+      T_BloodBleeding_24: -4708406640165116050
+      T_BloodBleeding_25: 6275929926596362256
+      T_BloodBleeding_26: 3945834977607836035
+      T_BloodBleeding_27: -8544609358868051957
+      T_BloodBleeding_28: -2810942605486239644
+      T_BloodBleeding_29: 7532833506081229969
+      T_BloodBleeding_3: 868721502978678665
+      T_BloodBleeding_30: 1487642869707796539
+      T_BloodBleeding_31: -7066150626268076697
+      T_BloodBleeding_32: -4074613646093861627
+      T_BloodBleeding_33: 5385755302449911529
+      T_BloodBleeding_34: -1326449571317658488
+      T_BloodBleeding_35: -293899028568122280
+      T_BloodBleeding_36: -5487264363114098569
+      T_BloodBleeding_37: -2257234043004728607
+      T_BloodBleeding_38: 402123083697969481
+      T_BloodBleeding_39: -7993523493885543200
+      T_BloodBleeding_4: 5246853714341365924
+      T_BloodBleeding_40: -2073802755612894543
+      T_BloodBleeding_41: -4646338438114440765
+      T_BloodBleeding_42: 6488280140654768366
+      T_BloodBleeding_43: 3779886684187711501
+      T_BloodBleeding_44: -8691522947050456922
+      T_BloodBleeding_45: -4536860124064955773
+      T_BloodBleeding_46: 1386906194062160731
+      T_BloodBleeding_47: 6527445739964184229
+      T_BloodBleeding_48: -5642909843003918761
+      T_BloodBleeding_49: -3199290992913944597
+      T_BloodBleeding_5: -6172499989257039737
+      T_BloodBleeding_50: -8336240960327323700
+      T_BloodBleeding_51: 3997237175441756199
+      T_BloodBleeding_52: 105930510396757985
+      T_BloodBleeding_53: 2644905961756868957
+      T_BloodBleeding_54: 7059715239010754453
+      T_BloodBleeding_55: -2664638270398008218
+      T_BloodBleeding_56: -9048335298428710036
+      T_BloodBleeding_57: -6200588610340919023
+      T_BloodBleeding_58: 9098896621664378373
+      T_BloodBleeding_59: 5020707715710928294
+      T_BloodBleeding_6: 4929336232934728435
+      T_BloodBleeding_60: -4837711880778312361
+      T_BloodBleeding_61: -9122919232490960486
+      T_BloodBleeding_62: -1073191749923201154
+      T_BloodBleeding_63: -336442278396605136
+      T_BloodBleeding_64: -5118852032355286863
+      T_BloodBleeding_65: -2582180337754045939
+      T_BloodBleeding_66: -5730706568561683897
+      T_BloodBleeding_67: -1542402174258808308
+      T_BloodBleeding_68: -6175238860620484759
+      T_BloodBleeding_69: -6775875763274360427
+      T_BloodBleeding_7: -7570504309533130484
+      T_BloodBleeding_70: -1030762616339332068
+      T_BloodBleeding_71: 704804744975104704
+      T_BloodBleeding_72: 3541207128229614495
+      T_BloodBleeding_73: -3200131562979079061
+      T_BloodBleeding_74: -5647095555085806332
+      T_BloodBleeding_75: -5398059207066621166
+      T_BloodBleeding_76: -8693063329941023073
+      T_BloodBleeding_77: 4759772947563208846
+      T_BloodBleeding_78: 7105955835183151100
+      T_BloodBleeding_79: 600411805322140690
+      T_BloodBleeding_8: 2058542614171113111
+      T_BloodBleeding_80: 317224454520540875
+      T_BloodBleeding_81: 1231544709798802099
+      T_BloodBleeding_82: 2194140544902171846
+      T_BloodBleeding_83: 7627115360342893281
+      T_BloodBleeding_84: 9137925265151109429
+      T_BloodBleeding_85: 663504980419525883
+      T_BloodBleeding_86: 1827343379191823167
+      T_BloodBleeding_87: -137424368566518388
+      T_BloodBleeding_88: 2244740040540812710
+      T_BloodBleeding_89: 9114769345302330534
+      T_BloodBleeding_9: -4760400475179943678
+      T_BloodBleeding_90: 5633060124235587018
+      T_BloodBleeding_91: 6870954347617475994
+      T_BloodBleeding_92: 7781013190288516908
+      T_BloodBleeding_93: 1633846581771304659
+      T_BloodBleeding_94: 1775968687243423665
+      T_BloodBleeding_95: 1505650201786357715
+      T_BloodBleeding_96: 6932411016527419918
+      T_BloodBleeding_97: -8276697755522616436
+      T_BloodBleeding_98: 8869041244150938886
+      T_BloodBleeding_99: 8067876055582030985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
